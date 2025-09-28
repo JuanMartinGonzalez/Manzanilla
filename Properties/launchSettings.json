@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmpresaManzanilla": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CADENA_CONEXION_SQL_EmpresaManzanilla": "Server=SAM\\SQLEXPRESS;Database=Empresa;TrustServerCertificate=true;Integrated Security=true;"
+      }
+    }
+  }
+}
